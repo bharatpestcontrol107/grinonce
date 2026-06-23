@@ -129,14 +129,14 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-6">Contact</h4>
             <div className="space-y-4">
-              <div className="flex items-start gap-3">
+              {/* <div className="flex items-start gap-3">
                 <svg className="w-5 h-5 text-[#a8d5ba] mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
                 <p className="text-[#a8d5ba] text-sm leading-relaxed">
                   House No. C-3/40, 1st Floor,<br />
                   Vijyant Khand, Gomtinagar,<br />
                   Lucknow, UP – 226010
                 </p>
-              </div>
+              </div> */}
               <a
                 href="tel:+919580662255"
                 className="flex items-center gap-3 text-[#a8d5ba] hover:text-white transition-colors"
