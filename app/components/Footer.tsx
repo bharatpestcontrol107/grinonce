@@ -163,7 +163,7 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-8">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-[#a8d5ba] text-sm text-center md:text-left">
-              © {currentYear} <span className="text-white font-medium">GIPL (Grinonce India Pvt. Ltd.)</span>. All rights reserved.
+              © {currentYear} <span className="text-white font-medium">GIPL (Grinonce)</span>. All rights reserved.
             </p>
             <div className="flex items-center gap-6 text-sm text-[#a8d5ba]">
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
