@@ -44,23 +44,23 @@ export default function Contact() {
   };
 
   const contactInfo = [
-    {
-      icon: ContactIcons.location,
-      title: "Office Address",
-      content: "House No. C-3/40, 1st Floor, Vijyant Khand, Gomtinagar, Lucknow, Uttar Pradesh – 226010",
-    },
+    // {
+    //   icon: ContactIcons.location,
+    //   title: "Office Address",
+    //   content: "House No. C-3/40, 1st Floor, Vijyant Khand, Gomtinagar, Lucknow, Uttar Pradesh – 226010",
+    // },
     {
       icon: ContactIcons.phone,
       title: "Helpline / WhatsApp",
       content: "+91-9580662255",
       link: "tel:+919580662255",
     },
-    {
-      icon: ContactIcons.website,
-      title: "Website",
-      content: "mygipl.com",
-      link: "https://mygipl.com",
-    },
+    // {
+    //   icon: ContactIcons.website,
+    //   title: "Website",
+    //   content: "mygipl.com",
+    //   link: "https://mygipl.com",
+    // },
   ];
 
   return (
